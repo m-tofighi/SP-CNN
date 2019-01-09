@@ -9,6 +9,7 @@ The project webpage: http://php.scripts.psu.edu/mqt5352/SP-CNN/SP-CNN.php
 The python version of test code and trained network models (checkpoints) provided here.
 
 How to run: 
+
  	1- Download the trained network models (checkpoint) for each dataset,
 	
  	2- Modify the directories to the paths containing the trained model and test data,
