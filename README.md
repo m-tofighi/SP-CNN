@@ -1,8 +1,10 @@
 # SP-CNN
 Shape Priors with Convolutional Neural Networks
 
-The SP-CNN paper presented in ICIP-2018 in Athens, Greece. Now you can download it from IEEE Xplore at:
+The SP-CNN paper presented in ICIP-2018 in Athens, Greece. Now you can download this paper from IEEE Xplore at:
 https://ieeexplore.ieee.org/abstract/document/8451797
+
+The project webpage: http://php.scripts.psu.edu/mqt5352/SP-CNN/SP-CNN.php
 
 The python version of test code and trained network models (checkpoints) provided here.
 
