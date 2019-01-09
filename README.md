@@ -12,4 +12,4 @@ How to run:
  	3- Specify a path to save the outputs
 	4- For assessment we used the same Matlab code provided by Sirinukunwattana et al.
 
-For further information and questions please contact M. Tofighi at tofighi@psu.edu
+For further information and questions please contact me at tofighi@psu.edu
